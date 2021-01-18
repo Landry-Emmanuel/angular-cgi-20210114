@@ -82,5 +82,6 @@ upport quelconque) : lance une application angular
 
 
 *********************** COMMANDES GIT ******************************
----> git branch <Nouvelle Branche>
----> git push --set-upstream origin <Nouvelle Branche>
+---> git branch <Nouvelle Branche> : créé une nouvelle branche
+---> git push --set-upstream origin <Nouvelle Branche> : push la nouvelle branche sur le repertoire distant
+---> git symbolic-ref HEAD --short : affiche le nom de la branche sur laquelle vous vous trouvez
